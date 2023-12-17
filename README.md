@@ -84,4 +84,4 @@ By utilising while loop, it makes it easier to handle iteration over all of the 
 
 ### Potential Improvements
 
-The current solution only accepts 2D array as a valid input. There are no validations and error handling for other input types, thus might cause the system crash. Therefore, error handling should be implemented to ensure that the input is a valid 2D array for better user experience.
+The current solution only accepts 2D array as a valid input. There are no validations and error handling for other input types. Therefore, error handling should be implemented to ensure that the input is a valid 2D array for better user experience.
