@@ -37,4 +37,4 @@ function nextBiggerNum(num) {
   return result;
 }
 
-console.log(nextBiggerNum(512));
+console.log(nextBiggerNum(2017));
